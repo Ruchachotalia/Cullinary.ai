@@ -1,0 +1,42 @@
+[
+    {
+        "location": "Paris, France",
+        "dishes": ["Croissant", "Coq au vin", "Ratatouille", "Bouillabaisse", "Macaron"]
+    },
+    {
+        "location": "Tokyo, Japan",
+        "dishes": ["Sushi", "Ramen", "Tempura", "Unagi", "Takoyaki"]
+    },
+    {
+        "location": "Mexico City, Mexico",
+        "dishes": ["Tacos", "Tamales", "Chilaquiles", "Pozole", "Mole"]
+    },
+    {
+        "location": "Mumbai, India",
+        "dishes": ["Pav Bhaji", "Bhelpuri", "Vada Pav", "Chicken Tandoori", "Paneer Tikka"]
+    },
+    {
+        "location": "Rome, Italy",
+        "dishes": ["Pasta Carbonara", "Gelato", "Pizza Margherita", "Osso Buco", "Tiramisu"]
+    },
+    {
+        "location": "Bangkok, Thailand",
+        "dishes": ["Pad Thai", "Green Curry", "Mango Sticky Rice", "Tom Yum Goong", "Som Tam"]
+    },
+    {
+        "location": "New York, USA",
+        "dishes": ["Bagel", "Cheesecake", "Hot Dog", "Pizza", "Pastrami Sandwich"]
+    },
+    {
+        "location": "Istanbul, Turkey",
+        "dishes": ["Baklava", "Kebab", "Meze", "Lokum", "Menemen"]
+    },
+    {
+        "location": "Lisbon, Portugal",
+        "dishes": ["Bacalhau", "Pastéis de Nata", "Caldo Verde", "Francesinha", "Piri Piri Chicken"]
+    },
+    {
+        "location": "Seoul, South Korea",
+        "dishes": ["Kimchi", "Bibimbap", "Bulgogi", "Tteokbokki", "Korean BBQ"]
+    }
+]
